@@ -1,0 +1,17 @@
+﻿  Frontend.cpp
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(95): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(115): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(118): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(134): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(144): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(494): warning C4552: '!': operator has no effect; expected operator with side-effect
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(499): warning C4552: '!': operator has no effect; expected operator with side-effect
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(504): warning C4552: '!': operator has no effect; expected operator with side-effect
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(509): warning C4552: '!': operator has no effect; expected operator with side-effect
+d:\programming languages\c++_game_mario\c++_game_mario\frontend.cpp(514): warning C4552: '!': operator has no effect; expected operator with side-effect
+  C++_Game_Mario.vcxproj -> D:\Programming languages\C++_Game_Mario\C++_Game_Mario\Debug\C++_Game_Mario.exe
+  C++_Game_Mario.vcxproj -> D:\Programming languages\C++_Game_Mario\C++_Game_Mario\Debug\C++_Game_Mario.pdb (Full PDB)
